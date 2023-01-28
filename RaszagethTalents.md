@@ -8,89 +8,91 @@
 \
 [Blood Death Knight](#blood-death-knight)
 \
-Guradian Druid
+[Guradian Druid](#guradian-druid)
 \
-Brewmaster Monk
+[Brewmaster Monk](#brewmaster-monk)
 \
-Protection Paladin
+[Protection Paladin](#protection-paladin)
 \
-Protection Warrior
+[Protection Warrior](#protection-warrior)
 
 ### Healers
 \
-Restoration Druid
+[Restoration Druid](#restoration-druid)
 \
-Preservation Evoker
+[Preservation Evoker](#preservation-evoker)
 \
-Mistweaver Monk
+[Mistweaver Monk](#mistweaver-monk)
 \
-Holy Paladin
+[Holy Paladin](#holy-paladin)
 \
-Holy Priest
+[Holy Priest](#holy-priest)
 \
-Discipline Priest
+[Discipline Priest](#discipline-priest)
 \
-Restoration Shamen
+[Restoration Shamen](#restoration-shamen)
 
 
 ### Melee DPS
 \
-Frost Death Knight
+[Frost Death Knight](#frost-death-knight)
 \
-Unholy Death Knight
+[Unholy Death Knight](#unholy-death-knight)
 \
-Havoc Demon Hunter
+[Havoc Demon Hunter](#havoc-demon-hunter)
 \
-Feral Druid
+[Feral Druid](#feral-druid)
 \
-Survival Hunter
+[Survival Hunter](#survival-hunter)
 \
-Windwalker Monk
+[Windwalker Monk](#windwalker-monk)
 \
-Retribution Paladin
+[Retribution Paladin](#retribution-paladin)
 \
-Assassination Rogue
+[Assassination Rogue](#assassination-rogue)
 \
-Outlaw Rogue
+[Outlaw Rogue](#outlaw-rogue)
 \
-Subtlety Rogue
+[Subtlety Rogue](#subtlety-rogue)
 \
-Enhancement Shamen
+[Enhancement Shamen](#enhancement-shamen)
 \
-Arms Warrior
+[Arms Warrior](#arms-warrior)
 \
-Fury Warrior
-### Range DPS
+[Fury Warrior](#fury-warrior)
+### Range DPS(#)
 \
-Balence Druid
+[Balence Druid](#balence-druid)
 \
-Devastation Evoker
+[Devastation Evoker](#devastation-evoker)
 \
-Beast Mastery Hunter
+[Beast Mastery Hunter](#beast-mastery-hunter)
 \
-Marksmanship Hunter
+[Marksmanship Hunter](#marksmanship-hunter)
 \
-Arcane Mage
+[Arcane Mage](#arcane-mage)
 \
-Fire Mage
+[Fire Mage](#fire-mage)
 \
-Frost Mage 
+[Frost Mage](#frost-mage)
 \
-Shadow Priest
+[Shadow Priest](#shadow-priest)
 \
-Elemental Shaman
+[Elemental Shaman](#elemental-shaman)
 \
-Affliction Warlock
+[Affliction Warlock](#affliction-warlock)
 \
-Demonology Warlock
+[Demonology Warlock](#demonology-warlock)
 \
-Destruction Warlock
+[Destruction Warlock](#destruction-warlock)
 
 
 ### Tanks
-\
+
 #### Blood Death Knight
 \
+Notes: N/A
+\
 \
 Talent String:
 \
@@ -98,42 +100,49 @@ BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
 \
 \
 ![alt text](assets/BDK.PNG)
-\
+
 #### Guradian Druid
 \
+Notes: 1 Log (Pumps GOAT) - Tree from before the 24th, may require some changes.
+\
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASSkkokokkkEJQQShiAQCCSgkkkkkIFAOAAAAAAARAB
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/GDruid.PNG)
+
 #### Brewmaster Monk
 \
+Notes: 1 Log - Might be niche
+\
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BwQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBAAAAUiWLJJQSSpRAAAASJSLJSkQikIJSJJEaRi0SrEC
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/BMonk.PNG)
+
 #### Protection Paladin
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BIEAAAAAAAAAAAAAAAAAAAAAA0iWCpJaHISSiWTkkEBSAAAAAAAAAAAAAAQTSSSKJQClUEJhokG
 \
 \
-![alt text](assets/BDK.PNG)
+![alt text](assets/PPaladin.PNG)
 \
 #### Protection Warrior
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BkEAAAAAAAAAAAAAAAAAAAAAAIEJAAAAgkkQSiItkSSSaQEIFFBUSSgCikE0CJJggDECAAAAAAAEBAgSrBA
+\
+\
+![alt text](assets/PWarrior.PNG)
 
 ### Healers
 \
@@ -142,20 +151,20 @@ BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BkGAAAAAAAAAAAAAAAAAAAAAAQkkoUSSSUkWIRgU0ikAAAAAAAAAAAAAKChICCSCQSIJShkWCAAAAAARAAA
 \
 \
-![alt text](assets/BDK.PNG)
+![alt text](assets/RDruid.PNG)
 \
 #### Preservation Evoker
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BwbBAAAAAAAAAAAAAAAAAAAAAQB0yBEhISRSSItokkkgEAAAAAQk0SkACSkkkIh4AJB
 \
 \
-![alt text](assets/BDK.PNG)
+![alt text](assets/PEvoker.PNG)
 \
 #### Mistweaver Monk
 \
