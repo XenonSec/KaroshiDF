@@ -4,87 +4,22 @@
 * Talents have been taken after changes on the 24th of Jan class changes
 * Any changes or additions feel free to DM Madrexus#0001
 * Talants are the most common I have seen for the fight, Don't think of anything too innovative unless its warlock or spriest where I have half an idea on what's going on.
-### Tanks
-\
-[Blood Death Knight](#blood-death-knight)
-\
-[Guradian Druid](#guradian-druid)
-\
-[Brewmaster Monk](#brewmaster-monk)
-\
-[Protection Paladin](#protection-paladin)
-\
-[Protection Warrior](#protection-warrior)
 
-### Healers
-\
-[Restoration Druid](#restoration-druid)
-\
-[Preservation Evoker](#preservation-evoker)
-\
-[Mistweaver Monk](#mistweaver-monk)
-\
-[Holy Paladin](#holy-paladin)
-\
-[Holy Priest](#holy-priest)
-\
-[Discipline Priest](#discipline-priest)
-\
-[Restoration Shamen](#restoration-shamen)
-
-
-### Melee DPS
-\
-[Frost Death Knight](#frost-death-knight)
-\
-[Unholy Death Knight](#unholy-death-knight)
-\
-[Havoc Demon Hunter](#havoc-demon-hunter)
-\
-[Feral Druid](#feral-druid)
-\
-[Survival Hunter](#survival-hunter)
-\
-[Windwalker Monk](#windwalker-monk)
-\
-[Retribution Paladin](#retribution-paladin)
-\
-[Assassination Rogue](#assassination-rogue)
-\
-[Outlaw Rogue](#outlaw-rogue)
-\
-[Subtlety Rogue](#subtlety-rogue)
-\
-[Enhancement Shamen](#enhancement-shamen)
-\
-[Arms Warrior](#arms-warrior)
-\
-[Fury Warrior](#fury-warrior)
-### Range DPS(#)
-\
-[Balence Druid](#balence-druid)
-\
-[Devastation Evoker](#devastation-evoker)
-\
-[Beast Mastery Hunter](#beast-mastery-hunter)
-\
-[Marksmanship Hunter](#marksmanship-hunter)
-\
-[Arcane Mage](#arcane-mage)
-\
-[Fire Mage](#fire-mage)
-\
-[Frost Mage](#frost-mage)
-\
-[Shadow Priest](#shadow-priest)
-\
-[Elemental Shaman](#elemental-shaman)
-\
-[Affliction Warlock](#affliction-warlock)
-\
-[Demonology Warlock](#demonology-warlock)
-\
-[Destruction Warlock](#destruction-warlock)
+|Tanks|Healers|Melee DPS|Range DPS|
+|-------------------------------------------|-------------------------------------------|---------|---------|
+|[Blood Death Knight](#blood-death-knight)  |[Restoration Druid](#restoration-druid)    |[Frost Death Knight](#frost-death-knight)  |[Balence Druid](#balence-druid)|
+|[Guradian Druid](#guradian-druid)          |[Preservation Evoker](#preservation-evoker)|[Unholy Death Knight](#unholy-death-knight)|[Devastation Evoker](#devastation-evoker)|
+|[Brewmaster Monk](#brewmaster-monk)        |[Mistweaver Monk](#mistweaver-monk)        |[Havoc Demon Hunter](#havoc-demon-hunter)  |[Beast Mastery Hunter](#beast-mastery-hunter)|
+|[Protection Paladin](#protection-paladin)  |[Holy Paladin](#holy-paladin)              |[Feral Druid](#feral-druid)                |[Marksmanship Hunter](#marksmanship-hunter)|
+|[Protection Warrior](#protection-warrior)  |[Holy Priest](#holy-priest)                |[Survival Hunter](#survival-hunter)        |[Arcane Mage](#arcane-mage)|
+|                                           |[Discipline Priest](#discipline-priest)    |[Windwalker Monk](#windwalker-monk)        |[Fire Mage](#fire-mage)|
+|                                           |[Restoration Shamen](#restoration-shaman)  |[Retribution Paladin](#retribution-paladin)|[Frost Mage](#frost-mage)|
+|                                           |                                           |[Assassination Rogue](#assassination-rogue)|[Shadow Priest](#shadow-priest)|
+|                                           |                                           |[Outlaw Rogue](#outlaw-rogue)              |[Elemental Shaman](#elemental-shaman)|
+|                                           |                                           |[Subtlety Rogue](#subtlety-rogue)          |[Affliction Warlock](#affliction-warlock)|
+|                                           |                                           |[Enhancement Shamen](#enhancement-shaman)  |[Demonology Warlock](#demonology-warlock)|
+|                                           |                                           |[Arms Warrior](#arms-warrior)              |[Destruction Warlock](#destruction-warlock)|
+|                                           |                                           |[Fury Warrior](#fury-warrior)              ||
 
 
 ### Tanks
@@ -134,7 +69,7 @@ BIEAAAAAAAAAAAAAAAAAAAAAA0iWCpJaHISSiWTkkEBSAAAAAAAAAAAAAAQTSSSKJQClUEJhokG
 \
 \
 ![alt text](assets/PPaladin.PNG)
-\
+
 #### Protection Warrior
 \
 Talent String:
@@ -145,7 +80,7 @@ BkEAAAAAAAAAAAAAAAAAAAAAAIEJAAAAgkkQSiItkSSSaQEIFFBUSSgCikE0CJJggDECAAAAAAAEBAgS
 ![alt text](assets/PWarrior.PNG)
 
 ### Healers
-\
+
 #### Restoration Druid
 \
 \
@@ -155,7 +90,7 @@ BkGAAAAAAAAAAAAAAAAAAAAAAQkkoUSSSUkWIRgU0ikAAAAAAAAAAAAAKChICCSCQSIJShkWCAAAAAAR
 \
 \
 ![alt text](assets/RDruid.PNG)
-\
+
 #### Preservation Evoker
 \
 \
@@ -165,308 +100,302 @@ BwbBAAAAAAAAAAAAAAAAAAAAAQB0yBEhISRSSItokkkgEAAAAAQk0SkACSkkkIh4AJB
 \
 \
 ![alt text](assets/PEvoker.PNG)
-\
+
 #### Mistweaver Monk
+\
+Notes: 2 Logs - this is from pre class hotfix, string may not work.
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+B4QAAAAAAAAAAAAAAAAAAAAAA0CpgEBlWRSEhk0iWiUEAAAAAAAAAAAAAk0CJSSkIIJJNiEHAAQA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/MMonk.PNG)
+
 #### Holy Paladin
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAQJJQUSJJ0EpIRSJgWiENJRSKJcgkElUSSAKRA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/HPaladin.PNG)
+
 #### Holy Priest
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BEQAAAAAAAAAAAAAAAAAAAAAAQDAAAAAAAQhodAHIJJSIlQSShSClAAAAAQSahWSC0ISESElCkkQKA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/HPriest.PNG)
+
 #### Discipline Priest
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BAQAAAAAAAAAAAAAAAAAAAAAAABQSLRCpFRaREtUSSSCAAAAAAAAAAAAEpRaJBSjIBRQpFJSCKB
 \
 \
-![alt text](assets/BDK.PNG)
-\
-#### Restoration Shamen
+![alt text](assets/DPriest.PNG)
+
+#### Restoration Shaman
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIRSSkSCppFtE0iWkUSIoE0SBFIFSSDEIJRSA
 \
 \
-![alt text](assets/BDK.PNG)
+![alt text](assets/RShamen.PNG)
 
 
 ### Melee DPS
-\
+
 #### Frost Death Knight
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BsPAAAAAAAAAAAAAAAAAAAAAAkIAiIJJkISEhIJhQiIREEQiIRSSSSSSa5AAAAAAAAAAAAAA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/FDK.PNG)
+
 #### Unholy Death Knight
 \
-\
-Talent String:
-\
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+Notes: No Logs :(
 \
 \
-![alt text](assets/BDK.PNG)
-\
+Talent String: N/A
+
 #### Havoc Demon Hunter
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BEkAAAAAAAAAAAAAAAAAAAAAAQCIhUC0SSkkIlWEAAAAAAAtIBHolCJJFIkWSIJRSSSA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/HavocDH.PNG)
+
 #### Feral Druid
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgkSaSkkkIpkGRJJJRSAAAAAAoIASCAQSChkQJhSSCAAAAAAkAKAA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/FDruid.PNG)
+
 #### Survival Hunter
 \
-\
-Talent String:
-\
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+Notes: No Logs :(
 \
 \
-![alt text](assets/BDK.PNG)
-\
+Talent String: N/A
 #### Windwalker Monk
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+B0QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQSkkElISEAAAAQkkESEIJJQSLSEJkIJJJJtkAAAA
 \
 \
-![alt text](assets/BDK.PNG)
+![alt text](assets/WMonk.PNG)
 \
 #### Retribution Paladin
+\
+Notes: 1 Log - Pre class changes, may not work
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIBIiSaJJEQSSapkkElAAAAAAAINRSSaCkE0SSSUiSA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/RPaladin.PNG)
+
 #### Assassination Rogue
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BMQAAAAAAAAAAAAAAAAAAAAAAINJSCkQJBAAAAAAQSAkIAAAAAAA0iEOQJJkkkkWKJiEkQkYBB
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/ARogue.PNG)
+
 #### Outlaw Rogue
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BQQAAAAAAAAAAAAAAAAAAAAAAAAAgERSAkkQikkgkEJRikkkkkIAAAAAAARLgUSCIRaBAAAA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/ORogue.PNG)
+
 #### Subtlety Rogue
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BUQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAJJiQASkkgkkEJkERSSUSikUiQSSoEAAAA
 \
 \
-![alt text](assets/BDK.PNG)
-\
-#### Enhancement Shamen
+![alt text](assets/SRogue.PNG)
+
+#### Enhancement Shaman
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BcQAAAAAAAAAAAAAAAAAAAAAAIJJpkkASCikkQJhAAAAAAAAAAAAAQJCRIhUEFIlkkUAUSkEA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/RShamen.PNG)
+
 #### Arms Warrior
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BcEAAAAAAAAAAAAAAAAAAAAAAAQplIRkQkkWrkkAAAAABRIKEQREoECJhmEhAESkAAAAAAAAQCkkACRDB
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/AWarrior.PNG)
+
 #### Fury Warrior
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BgEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAACBShSAEBpgARDSICEJRSSaJRSEAJJJRapEgkkEAAAAEE
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/FWarrior.PNG)
+
 ### Range DPS
-\
+
+
 #### Balence Druid
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAkkICSCBJJSiUgSikkEpkg4AJh0SKJhgGAhCA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/BDruid.PNG)
+
 #### Devastation Evoker
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BsbBAAAAAAAAAAAAAAAAAAAAAQBCAAAAAAKapQiIJkQSkUSSSTi0SkIJSiEkkIR4AB
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/DEvoker.PNG)
+
 #### Beast Mastery Hunter
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+B0PAAAAAAAAAAAAAAAAAAAAAA4AgWSAIEAAAAAAAAAAAaEaSoJRikIRCaSkWIJkIkoRSE
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/BMHunter.PNG)
+
 #### Marksmanship Hunter
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+B4PAAAAAAAAAAAAAAAAAAAAAA4ARoFASCCCAAAAQkERSSigIRSLkGRoVkimQSSIhgGAAAAA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/MHunter.PNG)
+
 #### Arcane Mage
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+B4DAAAAAAAAAAAAAAAAAAAAAAIJCSaJCHIJFQ0SIiISiESolg0SCAAAAAAAAAAAQSSSSIJJJA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/AMage.PNG)
+
 #### Fire Mage
 \
+Notes: Log from pre class changes, build could be out of date.
+\
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+B8DAAAAAAAAAAAAAAAAAAAAAAkkIEaJScgkUA5AtEiICJAAAAAAAAA4AEIRokkIJOQSSSSBAAAA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/FMage.PNG)
+
 #### Frost Mage
 \
-\
-Talent String:
-\
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+Notes: No Logs :(
 \
 \
-![alt text](assets/BDK.PNG)
-\
+Talent String: N/A
+
 #### Shadow Priest
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BIQAAAAAAAAAAAAAAAAAAAAAAIi0iEAAAAAAAAAAAAAikoEpJFikkUSIRQakkkINShEESRahkAA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/SPriest.PNG)
+
 #### Elemental Shaman
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgUSrIJtkAJINKBtkkkDAAAAAAAlAkSSUSTUgDUSSSDgkQSA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/ElShaman.PNG)
+
 #### Affliction Warlock
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BkQAAAAAAAAAAAAAAAAAAAAAAARSSkIBSLNlgUkkEpEAAAAoRCAAAAAAkIakkIRSS0SIAA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/AWarlock.PNG)
+
 #### Demonology Warlock
 \
 \
 Talent String:
 \
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+BoQAAAAAAAAAAAAAAAAAAAAAAgESSkIg00SJIlDkkQaBAAAAAtIJJhEIhEJHISLJyBIAAAAAAA
 \
 \
-![alt text](assets/BDK.PNG)
-\
+![alt text](assets/DemWarlock.PNG)
+
 #### Destruction Warlock
 \
-\
-Talent String:
-\
-BoPAAAAAAAAAAAAAAAAAAAAAAACJJCJJi0iERkISIIJSkAAAAAAkIJOQik0EiEAAQkkkEAAAA
+Notes: No Logs :(
 \
 \
-![alt text](assets/BDK.PNG)
+Talent String: N/A
